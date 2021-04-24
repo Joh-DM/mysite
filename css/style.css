@@ -735,7 +735,7 @@ a:hover {
 }
 
 .work-content .w-more .w-ctegory {
-  color: ##65db05;
+  color: #65db05;
 }
 
 .work-content .w-like {
@@ -850,7 +850,6 @@ a:hover {
 .card-blog .post-date {
   color: #4e4e4e;
   display: inline-block;
-  float: right;
 }
 
 /*======================================
